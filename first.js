@@ -1,2 +1,2 @@
-console.log("first.js");
 console.log("Pull Request.js");
+console.log("KAmal Rawal")
